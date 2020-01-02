@@ -1,6 +1,8 @@
 # Random-Quote-Machine-React
 
 Random quote and share to twitter.
+
+Open https://pasparangabriel.github.io/Random-Quote-Machine-React/ to view it in the browser.
  
 ## Setup
 
